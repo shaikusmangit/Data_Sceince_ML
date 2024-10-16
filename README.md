@@ -15,7 +15,13 @@ Behavioral characteristics: such as spending, consumption habits, product/servic
  
  Businsess Recommendations:
  
-1.Reduce the chrun of customers  
-2.Increase revenue & Profits.
+ 1.Reduce the chrun of customers  
+ 2.Increase revenue & Profits.
 3.Facilitate in formulating marketing strategies
-Further data analysis of all RFM_Customer_Segement can help the Xpreskart company to increase Revenue & profits.
+4.Help in target marketing
+5.ROI on marketing of RFM customer segments can be ascertained.
+6.By analyzing the customer purchase history, we can identify popular products and seasonal trends.
+7.Understanding which products drive sales allows businesses to stock efficiently and create targeted promotions.
+8.Customer segmentation can help tailor marketing efforts for increased engagement.
+9.Insights gathered can guide product development and customer service enhancements.
+10Understanding customer trends fuels growth and improves satisfaction
